@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2022-03-25 09:21">
+<yml_catalog date="2022-03-25 10:49">
 	<shop>
 		<name>КОТМАРКОТ</name>
 		<company>ООО КОТМАРКОТ</company>
@@ -405,7 +405,7 @@
 				<article>570521372</article>
 				<size>размер 110</size>
 				<categoryId>71</categoryId>
-				<stock>117</stock>
+				<stock>118</stock>
 				<picture>https://kotmarkot.ru/top/570521372.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -435,7 +435,7 @@
 				<article>570521372</article>
 				<size>размер 122</size>
 				<categoryId>71</categoryId>
-				<stock>148</stock>
+				<stock>149</stock>
 				<picture>https://kotmarkot.ru/top/570521372.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -13050,7 +13050,7 @@
 				<article>576321389</article>
 				<size>размер 92</size>
 				<categoryId>66</categoryId>
-				<stock>34</stock>
+				<stock>33</stock>
 				<picture>https://kotmarkot.ru/top/576321389.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -13777,21 +13777,6 @@
 				<model>913221481 Боди короткий рукав &amp;quot;Пандочка&amp;quot;, размер 68</model>
 				<description/>
 				<barcode>4655751531073</barcode>
-			</offer>
-			<offer id="11540:4655751531080" available="true">
-				<name>913221481 Боди короткий рукав &amp;quot;Пандочка&amp;quot;</name>
-				<price>845</price>
-				<currencyId>RUB</currencyId>
-				<article>913221481</article>
-				<size>размер 74</size>
-				<categoryId>3</categoryId>
-				<stock>6</stock>
-				<picture>https://kotmarkot.ru/top/913221481.jpg</picture>
-				<vendor>ООО КОТМАРКОТ</vendor>
-				<vendorCode>1</vendorCode>
-				<model>913221481 Боди короткий рукав &amp;quot;Пандочка&amp;quot;, размер 74</model>
-				<description/>
-				<barcode>4655751531080</barcode>
 			</offer>
 			<offer id="11553:4655751531837" available="true">
 				<name>913221510 Боди короткий рукав &amp;quot;Сердца&amp;quot;</name>
@@ -16215,7 +16200,7 @@
 				<article>6600960</article>
 				<size>размер 80</size>
 				<categoryId>15</categoryId>
-				<stock>30</stock>
+				<stock>29</stock>
 				<picture>https://kotmarkot.ru/top/6600960.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -16245,7 +16230,7 @@
 				<article>9190965</article>
 				<size>размер 80</size>
 				<categoryId>3</categoryId>
-				<stock>26</stock>
+				<stock>25</stock>
 				<picture>https://kotmarkot.ru/top/9190965.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -19456,7 +19441,7 @@
 				<article>9061061</article>
 				<size>размер 56</size>
 				<categoryId>3</categoryId>
-				<stock>36</stock>
+				<stock>37</stock>
 				<picture>https://kotmarkot.ru/top/9061061.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21592,7 +21577,7 @@
 				<article>5251268</article>
 				<size>размер 98</size>
 				<categoryId>5</categoryId>
-				<stock>139</stock>
+				<stock>133</stock>
 				<picture>https://kotmarkot.ru/top/5251268.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21607,7 +21592,7 @@
 				<article>5251268</article>
 				<size>размер 104</size>
 				<categoryId>5</categoryId>
-				<stock>190</stock>
+				<stock>184</stock>
 				<picture>https://kotmarkot.ru/top/5251268.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21622,7 +21607,7 @@
 				<article>5251268</article>
 				<size>размер 110</size>
 				<categoryId>5</categoryId>
-				<stock>244</stock>
+				<stock>238</stock>
 				<picture>https://kotmarkot.ru/top/5251268.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21637,7 +21622,7 @@
 				<article>5251268</article>
 				<size>размер 116</size>
 				<categoryId>5</categoryId>
-				<stock>258</stock>
+				<stock>252</stock>
 				<picture>https://kotmarkot.ru/top/5251268.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21652,7 +21637,7 @@
 				<article>5251268</article>
 				<size>размер 122</size>
 				<categoryId>5</categoryId>
-				<stock>254</stock>
+				<stock>247</stock>
 				<picture>https://kotmarkot.ru/top/5251268.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21667,7 +21652,7 @@
 				<article>5251268</article>
 				<size>размер 128</size>
 				<categoryId>5</categoryId>
-				<stock>264</stock>
+				<stock>258</stock>
 				<picture>https://kotmarkot.ru/top/5251268.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21682,7 +21667,7 @@
 				<article>5251269</article>
 				<size>размер 104</size>
 				<categoryId>5</categoryId>
-				<stock>44</stock>
+				<stock>38</stock>
 				<picture>https://kotmarkot.ru/top/5251269.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21697,7 +21682,7 @@
 				<article>5251269</article>
 				<size>размер 110</size>
 				<categoryId>5</categoryId>
-				<stock>90</stock>
+				<stock>84</stock>
 				<picture>https://kotmarkot.ru/top/5251269.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21712,7 +21697,7 @@
 				<article>5251269</article>
 				<size>размер 116</size>
 				<categoryId>5</categoryId>
-				<stock>73</stock>
+				<stock>67</stock>
 				<picture>https://kotmarkot.ru/top/5251269.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21727,7 +21712,7 @@
 				<article>5251269</article>
 				<size>размер 122</size>
 				<categoryId>5</categoryId>
-				<stock>89</stock>
+				<stock>83</stock>
 				<picture>https://kotmarkot.ru/top/5251269.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21742,7 +21727,7 @@
 				<article>5251269</article>
 				<size>размер 128</size>
 				<categoryId>5</categoryId>
-				<stock>93</stock>
+				<stock>87</stock>
 				<picture>https://kotmarkot.ru/top/5251269.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21772,7 +21757,7 @@
 				<article>8241267</article>
 				<size>размер 110</size>
 				<categoryId>55</categoryId>
-				<stock>23</stock>
+				<stock>20</stock>
 				<picture>https://kotmarkot.ru/top/8241267.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21787,7 +21772,7 @@
 				<article>8241267</article>
 				<size>размер 116</size>
 				<categoryId>55</categoryId>
-				<stock>37</stock>
+				<stock>34</stock>
 				<picture>https://kotmarkot.ru/top/8241267.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -21817,7 +21802,7 @@
 				<article>8241267</article>
 				<size>размер 128</size>
 				<categoryId>55</categoryId>
-				<stock>23</stock>
+				<stock>20</stock>
 				<picture>https://kotmarkot.ru/top/8241267.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -24847,7 +24832,7 @@
 				<article>9190744</article>
 				<size>размер 56</size>
 				<categoryId>3</categoryId>
-				<stock>63</stock>
+				<stock>64</stock>
 				<picture>https://kotmarkot.ru/top/9190744.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -24952,7 +24937,7 @@
 				<article>902241287</article>
 				<size>размер 56</size>
 				<categoryId>3</categoryId>
-				<stock>8</stock>
+				<stock>9</stock>
 				<picture>https://kotmarkot.ru/top/902241287.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -25312,7 +25297,7 @@
 				<article>9291019</article>
 				<size>размер 56</size>
 				<categoryId>3</categoryId>
-				<stock>26</stock>
+				<stock>27</stock>
 				<picture>https://kotmarkot.ru/top/9291019.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -28822,7 +28807,7 @@
 				<article>9310716</article>
 				<size>размер 56</size>
 				<categoryId>49</categoryId>
-				<stock>13</stock>
+				<stock>12</stock>
 				<picture>https://kotmarkot.ru/top/9310716.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -31027,7 +31012,7 @@
 				<article>4740011</article>
 				<size>размер 152</size>
 				<categoryId>9</categoryId>
-				<stock>48</stock>
+				<stock>51</stock>
 				<picture>https://kotmarkot.ru/top/4740011.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
@@ -31102,7 +31087,7 @@
 				<article>4750074</article>
 				<size>размер 146</size>
 				<categoryId>8</categoryId>
-				<stock>15</stock>
+				<stock>14</stock>
 				<picture>https://kotmarkot.ru/top/4750074.jpg</picture>
 				<vendor>ООО КОТМАРКОТ</vendor>
 				<vendorCode>1</vendorCode>
